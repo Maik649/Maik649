@@ -4,8 +4,15 @@
 
 ###
 
-<h2 align="left">Hello i am Maik</h2>
+<h2 align="left"># Hallo, ich bin Maik. 👋</h2>
 
+<p>**Web-Developer mit Fokus auf moderne, nutzerzentrierte Erlebnisse.**</p>
+
+<p>Ich liebe es, komplexe Probleme in einfachen, sauberen Code zu verwandeln. Mein Ziel ist es, Anwendungen zu bauen, die nicht nur funktionieren, sondern auch Spaß machen.</p>
+
+- 🌍 [Dein Portfolio-Link](https://maik.dev)
+- 📫 Erreichbar unter: [Deine E-Mail]
+- ⚡ Fun Fact: Ich schreibe Code fast so schnell wie ich Kaffee trinke.
 ###
 
 <div align="left">
