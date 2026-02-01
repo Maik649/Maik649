@@ -10,9 +10,8 @@
 
 <p>Ich liebe es, komplexe Probleme in einfachen, sauberen Code zu verwandeln. Mein Ziel ist es, Anwendungen zu bauen, die nicht nur funktionieren, sondern auch Spaß machen.</p>
 
-- 🌍 [Dein Portfolio-Link](https://maik.dev)
-- 📫 Erreichbar unter: [Deine E-Mail]
-- ⚡ Fun Fact: Ich schreibe Code fast so schnell wie ich Kaffee trinke.
+<p>- 📫 Erreichbar unter: [maik.pankow@gmx.de]</p>
+<p>- ⚡ Fun Fact: Ich schreibe Code fast so schnell wie ich Kaffee trinke.</p>
 ###
 
 <div align="left">
