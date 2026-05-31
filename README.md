@@ -7,7 +7,7 @@
 
 <p>Ich liebe es, komplexe Probleme in einfachen, sauberen Code zu verwandeln. Mein Ziel ist es, Anwendungen zu bauen, die nicht nur funktionieren, sondern auch Spaß machen.</p>
 
-<p>- 📫 Erreichbar unter: [maik.pankow@gmx.de]</p>
+<p>- 📫 Erreichbar unter: [info@maikpankow.de]</p>
 <p>- ⚡ Fun Fact: Ich schreibe Code fast so schnell wie ich Kaffee trinke.</p>
 
 ###
